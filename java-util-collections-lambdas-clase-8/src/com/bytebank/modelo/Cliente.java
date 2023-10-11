@@ -1,6 +1,6 @@
 package com.bytebank.modelo;
 
-public class Cliente implements Autenticableee {
+public class Cliente implements Autenticable {
 
 	// Public es el mas accesible
 	// Protected 
