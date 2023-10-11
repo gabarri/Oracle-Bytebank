@@ -3,7 +3,7 @@ package com.bytebank.modelo;
 public class Cliente implements Autenticable {
 
 	// Public es el mas accesible
-	// Protected jjjjjj
+	// Protected jjj
 	
 	private String nombre;
     private String documento;
